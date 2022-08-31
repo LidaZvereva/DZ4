@@ -1,0 +1,15 @@
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\bin\Debug\net6.0\ДЗ 4.exe
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\bin\Debug\net6.0\ДЗ 4.deps.json
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\bin\Debug\net6.0\ДЗ 4.runtimeconfig.json
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\bin\Debug\net6.0\ДЗ 4.dll
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\bin\Debug\net6.0\ДЗ 4.pdb
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\obj\Debug\net6.0\ДЗ 4.csproj.AssemblyReference.cache
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\obj\Debug\net6.0\ДЗ 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\obj\Debug\net6.0\ДЗ 4.AssemblyInfoInputs.cache
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\obj\Debug\net6.0\ДЗ 4.AssemblyInfo.cs
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\obj\Debug\net6.0\ДЗ 4.csproj.CoreCompileInputs.cache
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\obj\Debug\net6.0\ДЗ 4.dll
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\obj\Debug\net6.0\refint\ДЗ 4.dll
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\obj\Debug\net6.0\ДЗ 4.pdb
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\obj\Debug\net6.0\ДЗ 4.genruntimeconfig.cache
+C:\Users\lidia\Desktop\Языки программирования\ДЗ 4\ДЗ 4\obj\Debug\net6.0\ref\ДЗ 4.dll

@@ -15,26 +15,6 @@
 
 // Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 
-// Console.Write("Введите число N: ");
-// int numberN = Convert.ToInt32(Console.ReadLine());
-
-//   int SumNumber(int numberN)
-//   {
-//         int counter = Convert.ToString(numberN).Length;
-//     int advance = 0;
-//     int result = 0;
-
-//     for (int i = 0; i < counter; i++){
-//       advance = numberN - numberN % 10;
-//       result = result + (numberN - advance);
-//       numberN = numberN / 10;
-//     }
-//    return result;
-//   }
-
-// int sumNumber = SumNumber(numberN);
-// Console.WriteLine("Сумма цифр в числе: " + sumNumber);
-
 // Console.WriteLine("введите число");
 // int i = Convert.ToInt32(Console.ReadLine());
 // int sum = 0;
@@ -52,25 +32,25 @@
 //  рандоными данными от минимального до максимального значение .И важное уточнениее , делать все в методе который
 //  возвращает массив
 
-Console.WriteLine("Введите размер массива");
-int arraySize = int.Parse(Console.ReadLine());
+// Console.WriteLine("Введите размер массива");
+// int arraySize = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Введите минимальное значение");
-int minValue = int.Parse(Console.ReadLine());
+// Console.WriteLine("Введите минимальное значение");
+// int minValue = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Введите максимальное значение");
-int maxValue = int.Parse(Console.ReadLine());
+// Console.WriteLine("Введите максимальное значение");
+// int maxValue = int.Parse(Console.ReadLine());
 
-int[] array = new int[arraySize];
+// int[] array = new int[arraySize];
 
-void PrintArray(int[] array)
-{
-    for (int i = 0; i < arraySize; i++)
-    {
-        array[i] = new Random().Next(minValue, maxValue);
-        Console.Write($"{array[i]} ");
-    }
-    Console.WriteLine();
-}
+// void PrintArray(int[] array)
+// {
+//     for (int i = 0; i < arraySize; i++)
+//     {
+//         array[i] = new Random().Next(minValue, maxValue);
+//         Console.Write($"{array[i]} ");
+//     }
+//     Console.WriteLine();
+// }
 
-PrintArray(array); 
+// PrintArray(array); 
